@@ -2,7 +2,7 @@
 
 Una aplicación que predice la hora en la que debería acostarse una persona en base a varias variables, construida 100% con **SwiftUI**. :) 
 
-![Vista previa de WeSplit](BetterRest.png) ![Vista previa de WeSplit](BetterRest result.png)
+![Vista previa de WeSplit](BetterRest.png) ![Vista previa de WeSplit](BetterRestresult.png)
 
 ## Características
 * **Hora deseada para despertar:** Usuario escoge la hora en la que desea despertar
