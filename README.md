@@ -1,4 +1,4 @@
-# Better Rest 💸
+# Better Rest 😴
 
 Una aplicación que predice la hora en la que debería acostarse una persona en base a varias variables, construida 100% con **SwiftUI**. :) 
 
